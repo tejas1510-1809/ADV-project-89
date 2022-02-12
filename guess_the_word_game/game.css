@@ -1,6 +1,6 @@
 body
 {
-	background-image: https://img.wallpapersafari.com/desktop/1920/1080/69/11/9BumOl.jpg;
+	background-color: #AA4465;
 	
 }
 
@@ -14,7 +14,6 @@ body
 
 #player1_name , #player2_name
 {
-	color:aqua;
 	display: inline-block;
 	margin-left: 20px;
 }
